@@ -1,0 +1,8 @@
+prefix=/home/gaga/wheel/class3/devel
+
+Name: course_agv_gazebo
+Description: Description of course_agv_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

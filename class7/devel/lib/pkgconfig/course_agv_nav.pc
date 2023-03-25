@@ -1,0 +1,8 @@
+prefix=/home/gaga/wheel/class7/devel
+
+Name: course_agv_nav
+Description: Description of course_agv_nav
+Version: 0.0.0
+Cflags: -I/home/gaga/wheel/class7/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

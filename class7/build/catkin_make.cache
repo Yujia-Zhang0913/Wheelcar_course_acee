@@ -1,0 +1,2 @@
+course_agv_control:course_agv_description:course_agv_gazebo:course_agv_nav
+-DCATKIN_DEVEL_PREFIX=/home/gaga/wheel/class7/devel -DCMAKE_INSTALL_PREFIX=/home/gaga/wheel/class7/install -G Unix Makefiles
